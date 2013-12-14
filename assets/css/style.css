@@ -1,5 +1,11 @@
 .map-canvas {
-	width: 500px;
-	height: 300px;
+	position: absolute;
+	width: 100%;
+	max-width: 700px;
+	height: 400px;
+	top: 50%;
+	left: 50%;
+	margin-top: -200px;
+	margin-left: -350px;
 	border: 1px solid #ccc;
 }
